@@ -27,6 +27,8 @@ knitr::opts_chunk$set(warning = FALSE)
 - Manipulating data with `dplyr`
 - Pipe syntax
 - Where to get more information
+- Download the code for this presentation
+    + https://github.com/stephenjjohnson/KCRUG_tidyr_dplyr
 
 ## What's a Wickham?
 - Hadley Wickham is the Chief Scientist at RStudio (a free IDE for R) and teaches statistics at Rice University. 
