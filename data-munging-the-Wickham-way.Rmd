@@ -133,6 +133,7 @@ head(myData, 4)
 
 ## dplyr: a grammar of data manipulation
 - Five main verbs
+    + `filter()` to extract rows
     + `select()` to subset columns
     + `arrange()` to sort data
     + `summarise()` to calculate means, etc.
